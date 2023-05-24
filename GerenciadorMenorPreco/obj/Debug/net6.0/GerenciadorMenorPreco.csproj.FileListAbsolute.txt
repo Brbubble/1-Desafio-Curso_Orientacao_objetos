@@ -1,0 +1,15 @@
+C:\Users\bruna.silva\source\repos\1-Desafio\GerenciadorMenorPreco\bin\Debug\net6.0\GerenciadorMenorPreco.exe
+C:\Users\bruna.silva\source\repos\1-Desafio\GerenciadorMenorPreco\bin\Debug\net6.0\GerenciadorMenorPreco.deps.json
+C:\Users\bruna.silva\source\repos\1-Desafio\GerenciadorMenorPreco\bin\Debug\net6.0\GerenciadorMenorPreco.runtimeconfig.json
+C:\Users\bruna.silva\source\repos\1-Desafio\GerenciadorMenorPreco\bin\Debug\net6.0\GerenciadorMenorPreco.dll
+C:\Users\bruna.silva\source\repos\1-Desafio\GerenciadorMenorPreco\bin\Debug\net6.0\GerenciadorMenorPreco.pdb
+C:\Users\bruna.silva\source\repos\1-Desafio\GerenciadorMenorPreco\obj\Debug\net6.0\GerenciadorMenorPreco.csproj.AssemblyReference.cache
+C:\Users\bruna.silva\source\repos\1-Desafio\GerenciadorMenorPreco\obj\Debug\net6.0\GerenciadorMenorPreco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruna.silva\source\repos\1-Desafio\GerenciadorMenorPreco\obj\Debug\net6.0\GerenciadorMenorPreco.AssemblyInfoInputs.cache
+C:\Users\bruna.silva\source\repos\1-Desafio\GerenciadorMenorPreco\obj\Debug\net6.0\GerenciadorMenorPreco.AssemblyInfo.cs
+C:\Users\bruna.silva\source\repos\1-Desafio\GerenciadorMenorPreco\obj\Debug\net6.0\GerenciadorMenorPreco.csproj.CoreCompileInputs.cache
+C:\Users\bruna.silva\source\repos\1-Desafio\GerenciadorMenorPreco\obj\Debug\net6.0\GerenciadorMenorPreco.dll
+C:\Users\bruna.silva\source\repos\1-Desafio\GerenciadorMenorPreco\obj\Debug\net6.0\refint\GerenciadorMenorPreco.dll
+C:\Users\bruna.silva\source\repos\1-Desafio\GerenciadorMenorPreco\obj\Debug\net6.0\GerenciadorMenorPreco.pdb
+C:\Users\bruna.silva\source\repos\1-Desafio\GerenciadorMenorPreco\obj\Debug\net6.0\GerenciadorMenorPreco.genruntimeconfig.cache
+C:\Users\bruna.silva\source\repos\1-Desafio\GerenciadorMenorPreco\obj\Debug\net6.0\ref\GerenciadorMenorPreco.dll
